@@ -8,6 +8,7 @@ I wrote this function library to store functions that I think are more practical
 - [x] get_BeiJingTime.py
 - [x] picking_points_marsaglia.py
 - [x] simple_Tk.py
+- [x] network_ruijie.sh
 - [ ] download_videos.py
 
 
