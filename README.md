@@ -9,6 +9,7 @@ I wrote this function library to store functions that I think are more practical
 - [x] picking_points_marsaglia.py
 - [x] simple_Tk.py
 - [x] network_ruijie.sh
+- [x] win10_active_key
 - [ ] download_videos.py
 
 
